@@ -39,7 +39,7 @@
             this.dgvDiscos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDiscos.Location = new System.Drawing.Point(12, 12);
             this.dgvDiscos.Name = "dgvDiscos";
-            this.dgvDiscos.Size = new System.Drawing.Size(541, 206);
+            this.dgvDiscos.Size = new System.Drawing.Size(576, 206);
             this.dgvDiscos.TabIndex = 0;
             this.dgvDiscos.SelectionChanged += new System.EventHandler(this.dgvDiscos_SelectionChanged);
             // 
@@ -56,7 +56,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(837, 452);
+            this.ClientSize = new System.Drawing.Size(837, 255);
             this.Controls.Add(this.pbxDiscos);
             this.Controls.Add(this.dgvDiscos);
             this.Name = "Form1";
